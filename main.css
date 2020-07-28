@@ -4,5 +4,11 @@
 }
 
 body {
-  background-color: black;
+  background-color: aqua;
+}
+
+.img-container {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
 }
